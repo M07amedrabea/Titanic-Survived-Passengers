@@ -14,7 +14,7 @@ A machine learning classification project using Python, Pandas, and Scikit-Learn
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/yourrepository.git
+   git clone https://github.com/M07amedrabea/Titanic-Survived-Passengers.git
    cd yourrepository
    ```
 2. Install dependencies:
