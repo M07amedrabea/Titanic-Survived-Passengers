@@ -43,6 +43,3 @@ A machine learning classification project using Python, Pandas, and Scikit-Learn
 
 This project uses the Titanic dataset (or a similar dataset) for classification. The dataset is loaded from a CSV file named `train.csv`.
 
-## License
-
-This project is licensed under the MIT License.
